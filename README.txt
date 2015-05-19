@@ -173,3 +173,4 @@ the author of BootstrapWP (Wordpress theme for Bootstrap 2.3, basis for my funct
 the author of wp_bootstrap_navwalker (menu walker that was compatible to bootstrap 3)
 - Edward McIntyre
 + https://github.com/twittem/wp-bootstrap-navwalker
+Join the chat at https://gitter.im/mdemrs/TwitterBootstrap3BlankTheme
